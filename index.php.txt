@@ -1,6 +1,0 @@
-<?php
-
-echoo "Olá mundo!";
-
-
-?>
